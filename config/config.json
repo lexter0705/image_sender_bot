@@ -1,5 +1,5 @@
 {
-  "token": "8365725554:AAH4DpMg3Ub7QcP9hpyDHcZfU_4u-8yXENA",
+  "token": "",
   "images_path": "./images",
   "database_path": "sqlite:///database/database.sqlite"
 }
