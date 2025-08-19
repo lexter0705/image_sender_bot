@@ -1,5 +1,5 @@
 {
-  "token": "",
+  "token": "ENTER YOUR TOKEN",
   "images_path": "./images",
   "database_path": "sqlite:///database/database.sqlite"
 }
